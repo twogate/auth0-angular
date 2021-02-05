@@ -9,7 +9,7 @@ import {
   GetTokenSilentlyOptions,
   GetTokenWithPopupOptions,
   RedirectLoginResult,
-} from '@auth0/auth0-spa-js';
+} from '@twogate/auth0-spa-js';
 
 import {
   of,

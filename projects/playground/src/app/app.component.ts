@@ -3,7 +3,7 @@ import { FormGroup, FormControl } from '@angular/forms';
 import { AuthService } from 'projects/auth0-angular/src/lib/auth.service';
 import { iif } from 'rxjs';
 import { first } from 'rxjs/operators';
-import { LogoutOptions } from '@auth0/auth0-spa-js';
+import { LogoutOptions } from '@twogate/auth0-spa-js';
 import { DOCUMENT } from '@angular/common';
 
 @Component({

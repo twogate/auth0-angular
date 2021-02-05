@@ -1,5 +1,5 @@
 import { InjectionToken } from '@angular/core';
-import { Auth0Client } from '@auth0/auth0-spa-js';
+import { Auth0Client } from '@twogate/auth0-spa-js';
 import { AuthClientConfig } from './auth.config';
 import useragent from '../useragent';
 

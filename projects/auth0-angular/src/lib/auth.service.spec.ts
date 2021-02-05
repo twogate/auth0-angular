@@ -1,7 +1,7 @@
 import { TestBed } from '@angular/core/testing';
 import { AuthService } from './auth.service';
 import { Auth0ClientService } from './auth.client';
-import { Auth0Client, IdToken } from '@auth0/auth0-spa-js';
+import { Auth0Client, IdToken } from '@twogate/auth0-spa-js';
 import { AbstractNavigator } from './abstract-navigator';
 import { bufferCount, filter } from 'rxjs/operators';
 import { Location } from '@angular/common';

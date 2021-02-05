@@ -1,4 +1,4 @@
-import { CacheLocation, GetTokenSilentlyOptions } from '@auth0/auth0-spa-js';
+import { CacheLocation, GetTokenSilentlyOptions } from '@twogate/auth0-spa-js';
 import { InjectionToken, Injectable, Optional, Inject } from '@angular/core';
 
 /**
